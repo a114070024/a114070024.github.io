@@ -1,0 +1,50 @@
+.sunnycenter{
+    text-align: center;
+    color: deeppink ;}
+.meow{
+        color: aliceblue;
+        background-color: hotpink;
+        padding: 50px;
+        border-radius: 50px;
+        margin: 0px auto;
+        width: 100%;
+        text-align: left;
+        
+}
+.meow1{
+    color: rgb(206, 152, 253);
+    border-radius:30%;
+   }
+ .meow1:hover{
+    background-color: rgb(206, 152, 253);
+    color: aliceblue;
+
+ }
+ .sunnybig{
+    font-size: 20px;
+    font-weight: 500;
+ }
+ .sunnygo{
+    text-align: center;
+    font-size: 200px;
+ }
+ .ccc{
+    text-align: center;
+ }
+ section#about{
+    background-color: #adadad;
+    background-image: url(../assets/img/bg.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+ section#about h1{
+    color: #ffffff;
+ }
+ section#cta{
+    background-color:pink ;
+ }
+ section#cta h2{
+    color: white;
+ }
